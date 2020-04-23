@@ -1,0 +1,21 @@
+{
+  "name": "opsdevcode",
+  "version": "1.0.0",
+  "description": "This is my personal blog built from scratch",
+  "author": "erskaggs",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^3.5.2",
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2"
+  }
+}
