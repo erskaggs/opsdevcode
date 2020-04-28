@@ -1,6 +1,6 @@
 ---
-title: Something Hot
-date: 2019-06-29
+title: New to 2020
+date: 2020-04-27
 template: blog
 image: ./new.jpg
 banner: ./new.jpg
