@@ -11,4 +11,4 @@ description: first of a new.
   <img width="2040" height="300" src="./new.jpg">
 </p>
 
-This is my first entry into my blog.  While I know everyone has a blog, but as I've been laid off from my role I figured its a great time to start learning new tech that I have been wanting to learn for a long time.
+This is my first entry into my blog.  While I know everyone has a blog, but as I've been laid off from my role I figured its a great time to start learning new tech that I have been wanting to learn for a long time. So don't be cruel.  I'm an automation engineer trying to come into the front-end/back-end programming languages.
