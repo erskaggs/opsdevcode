@@ -2,7 +2,9 @@
 
 # [opsdevco.de](https://opsdevco.de)
 
-> this site will always be a work in progress while i learn new languages so may be broken at times ¯\_(ツ)_/¯
+> this site will always be a work in progress and most of it will be a WIP or broken so don't judge ¯\_(ツ)_/¯
+> this is my sandbox for the webs_of_inner
+> blog post will be accurate unless tagged with $M, then that me playing around with md
 
 ## Summary
 
