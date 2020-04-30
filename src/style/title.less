@@ -1,0 +1,28 @@
+.wall {
+	display: flex;
+	align-items: center;
+	flex-wrap: nowrap;
+	text-align: center;
+	position: relative;
+	height: 100vh;
+
+	svg {
+		display: block;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 800px) {
+  	.wall{
+		.title{
+			svg{
+				height: 100px;
+			}
+		}
+
+		svg text {
+		    font: bold 14px sans-serif;
+		    font-family: 'Work Sans', sans-serif;
+		}
+	}
+}
