@@ -1,1 +1,4 @@
-- [] get rid of blog image if banner
+- [x] get rid of blog image if banner
+- [x] add resume
+- [] rip out contact_form code
+- [] rip out disqus code
