@@ -1,1 +1,7 @@
-- [] get rid of blog image if banner
+- [x] get rid of blog image if banner
+- [x] add resume
+- [x] fix sectiontitle to use main image for font color
+- [] add sectiontitle to about and resume for uniformity
+- [] add pdf print/dnld link
+- [] rip out contact_form code
+- [] rip out disqus code
