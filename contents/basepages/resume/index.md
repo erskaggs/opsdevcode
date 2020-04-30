@@ -3,35 +3,41 @@ title: Resume
 template: basepage
 ---
 
-# ERIC SKAGGS
-DEVOPS/AUTOMATION ENGINEER
+# ERIC SKAGGS - [DEVOPS/AUTOMATION ENGINEER]
+
+| <div style="text-align:center;width:145px">Email</div>|<div style="text-align:center;width:145px">LinkedIn</div>|<div style="text-align:center;width:145px">GitHub</div>|<div style="text-align:center;width:145px">Blog</div>
+| --------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| <div style="text-align:center;width:150px">[ericskaggs@gmail.com](mailto:ericskaggs@gmail.com)</div>|<div style="text-align:center;width:150px">[@erskaggs](https://www.linkedin.com/in/erskaggs/)</div>|<div style="text-align:center;width:145px">[@erskaggs](https://github.com/erskaggs)</div>|<div style="text-align:center;width:145px">[opsdevco.de](https://opsdevco.de)</div>
 
 DevOps minded professional with a passion for automation and CI/CD. Engineer with +15 years of experience in managing cloud and on-prem infrastructure and systems engineering, integrating AWS/GCP cloud-based infrastructure components, and developing automation solutions. IT Professional bringing outstanding record in maintaining optimum information access, infrastructure performance and synchronization across server platforms while ensuring clear communications with senior engineers, project managers, and executives.
 
-**Email** : ericskaggs@gmail.com
-
-**LinkedIn** : [@erskaggs](https://www.linkedin.com/in/erskaggs/)
-
-**GitHub** : [@erskaggs](https://github.com/erskaggs)
-
 ***KEY SKILLS***
 
-- Jenkins, CircleCI, Git
-- System Engineering
-- Container Orchestration (Kubernetes &amp; GKE)
-- Process Improvement
-- Linux (Centos/RHEL + Ubuntu)
-- Cloud Platforms (AWS &amp; GCP)
-- DevOps Strategies &amp; Tooling
-- Automation (Terraform, Ansible, Chef)
-- Coding/Scripting (Python, JavaScript, Go, Bash)
-- Monitoring (Prometheus w/ Grafana, ELK, Jaeger, Dynatrace)
-- CI/CD workflows (Jenkins, CircleCI, Spinnaker)
+<!-- Bullet List -->
+<div style="float: left; width: 50%;">
+<ul>
+<li>CI/CD Pipelines (Git, Jenkins, CircleCI, Spinnaker)</li>
+<li>Systems Engineering</li>
+<li>Container Orchestration (Kubernetes, GKE, Kops)</li>
+<li>Process Improvement</li>
+<li>Linux (Centos/RHEL & Ubuntu)</li>
+<li>DevOps Strategies & Tooling</li>
+</ul>
+</div>
+<div style="float: right; width: 50%;">
+<ul>
+<li>Automation (Terraform, Ansible, Chef)</li>
+<li>Coding/Scripting (Python, JavaScript, Go, Bash)</li>
+<li>Database (MySQL, PostGRES, DynamoDB)</li>
+<li>Frameworks (FLask, GatsbyJS, NodeJS)</li>
+<li>Monitoring (Prometheus w/Grafana, ELK, Jaeger, Dynatrace)</li>
+<li>Cross Functional Partnerships</li>
+</ul>
+</div>
 
 ***EMPLOYMENT HISTORY***
 
-**Clearbit** 2019/10 – 2020/04
-
+**Clearbit** 2019/10 – 2020/04\
 Head of Infrastructure Engineering
 
 - Design solutions for data storage, monitoring, and deployment automation while continually enhancing DevOps tools, processes, and procedures
@@ -41,8 +47,7 @@ Head of Infrastructure Engineering
 - Acted as a Director of DevOps and reported to CTO and managed a distributed team
 - Took DevOps team from scrum to Kanban style for quicker priority resolution of requests and enhancements
 
-**Panera Bread** 2017/08 – 2019/10
-
+**Panera Bread** 2017/08 – 2019/10\
 Sr. DevOps Lead Engineer
 
 - Lead DevOps engineer for migrating to GCP. Bringing in Terraform and creating modules for reuse by development teams for IaC and creating pipeline automation in Jenkins for ease of onboarding.
@@ -51,8 +56,7 @@ Sr. DevOps Lead Engineer
 - Created Docker images for all Jenkins agents for builds and local development. Also wrote documentation for teams to reuse images and do pull requests to enhance images.
 - Collaborated with developers to enhance stability and scalability while prioritizing requests from operations, development, and product teams
 
-**Foresee** 2016/04– 2017/08
-
+**Foresee** 2016/04– 2017/08\
 Sr. DevOps Engineer
 
 - Automation of application configuration and infrastructure as code
@@ -66,8 +70,7 @@ Sr. DevOps Engineer
 - Researched new ways of CI/CD and automation to ensure teams and company are always using modern techniques and stay as agile as possible.
 - Helped develop DevOps team agile process
 
-**Cisco Systems** 2014/11 – 2016/04
-
+**Cisco Systems** 2014/11 – 2016/04\
 Sr. Software Systems Engineer
 
 - Software application development in python
@@ -83,8 +86,7 @@ Sr. Software Systems Engineer
 - Agile software development experience highly desired
 - Document required designs to make solutions available, including specifications, test plans, and training material.
 
-**Clayco** 2014/05 – 2014/11
-
+**Clayco** 2014/05 – 2014/11\
 Director of IT
 
 - Manage team of infrastructure, application, and database engineers, and help desk analysts. Train and mentor staff to improve application and infrastructure systems.
@@ -98,8 +100,7 @@ Director of IT
 - Security remediation of all environments and managed course of action to improve on security of all environments.
 - Moved preproduction and production environments to a virtual environment utilizing VMware vSphere 5.0.
 
-**Savvis** 2012/02 – 2014/05
-
+**Savvis** 2012/02 – 2014/05\
 Manager Platform Engineering
 
 - Manage infrastructure as code using Puppet, Chef, Ansible and Vagrant
