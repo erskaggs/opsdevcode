@@ -10,6 +10,7 @@ const siteMetadata = {
     description: `DevOps automation enthusiast but Father above all else.`,
     author: `@erskaggs`,
     blogItemsPerPage: 10,
+    portfolioItemsPerPage: 10,
     darkmode: true,
     switchTheme: true,
     navLinks: [
