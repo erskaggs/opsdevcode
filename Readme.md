@@ -1,10 +1,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6219ba94-4e26-4471-b8f0-5fd79aa778f6/deploy-status)](https://app.netlify.com/sites/clever-wilson-ce2f25/deploys)
+[![GitHub release](https://img.shields.io/github/release/erskaggs/opsdevcode/all.svg)](https://GitHub.com/erskaggs/opsdevcode/releases/)
 
 # [opsdevco.de](https://opsdevco.de)
 
 > this site will always be a work in progress and most of it will be a WIP or broken so don't judge ¯\_(ツ)_/¯
 > this is my sandbox for the webs_of_inner
-> blog post will be accurate unless tagged with $M, then that me playing around with md
+> blog post will be accurate unless tagged with $M, then that me playing around
 
 ## Summary
 
