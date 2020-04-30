@@ -1,5 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6219ba94-4e26-4471-b8f0-5fd79aa778f6/deploy-status)](https://app.netlify.com/sites/clever-wilson-ce2f25/deploys)
-[![release](https://img.shields.io/github/release/erskaggs/opsdevcode/all.svg)]
+[![release](https://img.shields.io/github/release/erskaggs/opsdevcode/all.svg)](https://github.com/erskaggs/opsdevcode/releases/)
 
 # [opsdevco.de](https://opsdevco.de)
 
