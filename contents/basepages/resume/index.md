@@ -3,11 +3,14 @@ title: Resume
 template: basepage
 ---
 
-# ERIC SKAGGS - [DEVOPS/AUTOMATION ENGINEER]
+#<div style="text-align:center">ERIC SKAGGS</div>
+<br />
+<br />
+
 
 | <div style="text-align:center;width:145px">Email</div>|<div style="text-align:center;width:145px">LinkedIn</div>|<div style="text-align:center;width:145px">GitHub</div>|<div style="text-align:center;width:145px">Blog</div>
 | --------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
-| <div style="text-align:center;width:150px">[ericskaggs@gmail.com](mailto:ericskaggs@gmail.com)</div>|<div style="text-align:center;width:150px">[@erskaggs](https://www.linkedin.com/in/erskaggs/)</div>|<div style="text-align:center;width:145px">[@erskaggs](https://github.com/erskaggs)</div>|<div style="text-align:center;width:145px">[opsdevco.de](https://opsdevco.de)</div>
+| <div style="text-align:center;width:150px">[@ericskaggs](mailto:ericskaggs@gmail.com)</div>|<div style="text-align:center;width:150px">[@erskaggs](https://www.linkedin.com/in/erskaggs/)</div>|<div style="text-align:center;width:145px">[@erskaggs](https://github.com/erskaggs)</div>|<div style="text-align:center;width:145px">[opsdevco.de](https://opsdevco.de)</div>
 
 DevOps minded professional with a passion for automation and CI/CD. Engineer with +15 years of experience in managing cloud and on-prem infrastructure and systems engineering, integrating AWS/GCP cloud-based infrastructure components, and developing automation solutions. IT Professional bringing outstanding record in maintaining optimum information access, infrastructure performance and synchronization across server platforms while ensuring clear communications with senior engineers, project managers, and executives.
 

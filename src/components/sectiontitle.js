@@ -5,7 +5,7 @@ class SectionTitle extends React.Component {
         super(props);
 
         this.state = {
-            colorPrimary: "#00",
+            colorPrimary: "#01",
             colorSecondary: "#00"
         };
 
