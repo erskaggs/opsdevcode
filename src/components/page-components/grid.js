@@ -2,7 +2,7 @@ import React from "react";
 
 export const Row = ({ children }) => {
     return (
-        <div className="row flex" style={{ color: "red" }}>
+        <div className="row flex" style={{ color: "blue" }}>
             {children}
         </div>
     );

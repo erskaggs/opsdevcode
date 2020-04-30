@@ -6,7 +6,6 @@ class SectionTitle extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            winHeight: "100vh"
         };
     }
 

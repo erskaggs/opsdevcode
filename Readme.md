@@ -3,9 +3,10 @@
 
 # [opsdevco.de](https://opsdevco.de)
 
-> this site will always be a work in progress and most of it will be a WIP or broken so don't judge ¯\_(ツ)_/¯
-> this is my sandbox for the webs_of_inner
-> blog post will be accurate unless tagged with $M, then that me playing around
+>This site will always be a work in progress and most of it will be a WIP or broken so don't judge ¯\_(ツ)_/¯\
+>This is my sandbox for the webs_of_inner\
+>Blog post will be accurate unless tagged with $M, then that me playing around
+
 
 ## Summary
 
