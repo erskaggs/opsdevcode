@@ -67,7 +67,7 @@ class SectionTitle extends React.Component {
         return (
             <div
                 className="titlewall"
-                style={{ height: this.state.winHeight + "px"}}
+                style={{ height: "200"}}
             >
                 <div className="title container">
                     <div className="section-title">
@@ -81,7 +81,7 @@ class SectionTitle extends React.Component {
                             <pattern
                                 id="wallPattern"
                                 patternUnits="userSpaceOnUse"
-                                width="50"
+                                width="100"
                                 height="100"
                             >
                                 <rect
