@@ -1,8 +1,8 @@
 {
-	"name": "gatsby-starter-elemental",
-	"description": "A simple starter to get up and developing quickly with Gatsby",
-	"version": "0.1.0",
-	"author": "Akshay <hi@akzhy.com>",
+	"name": "opsdevcode",
+	"description": "My blog to tinker with",
+	"version": "0.2.2",
+	"author": "@erskaggs",
 	"dependencies": {
 		"gatsby": "^2.10.4",
 		"gatsby-custom-md": "^1.0.2",
@@ -42,9 +42,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/akzhy/elemental"
+		"url": "https://github.com/erskaggs/opsdevcode"
 	},
 	"bugs": {
-		"url": "https://github.com/akzhy/elemental/issues"
+		"url": "https://github.com/erskaggs/opsdevcode/issues"
 	}
 }
