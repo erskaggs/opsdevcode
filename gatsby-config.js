@@ -23,6 +23,10 @@ const siteMetadata = {
             url: "/about"
         },
         {
+            name: "RESUME",
+            url: "/resume"
+        },
+        {
             name: "BLOG",
             url: "/blog"
         },

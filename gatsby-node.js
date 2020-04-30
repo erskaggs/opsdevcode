@@ -63,8 +63,8 @@ exports.createPages = ({ graphql, actions }) => {
                     }
                 }
             }
-            portfolio: allMarkdownRemark(
-                filter: { fileAbsolutePath: { regex: "/portfolio/" } }
+            resume: allMarkdownRemark(
+                filter: { fileAbsolutePath: { regex: "/resume/" } }
             ) {
                 edges {
                     node {
@@ -118,44 +118,10 @@ exports.createPages = ({ graphql, actions }) => {
             });
         });
 
-        const PortfolioItems = result.data.portfolio.edges;
-        const PortfolioItemsPerPage =
-            result.data.limitPost.siteMetadata.portfolioItemsPerPage;
-        const numPortfolioItems = Math.ceil(
-            PortfolioItems.length / PortfolioItemsPerPage
-        );
-
-        Array.from({ length: numPortfolioItems }).forEach((_, i) => {
-            createPage({
-                path: i === 0 ? `/portfolio` : `/portfolio/${i + 1}`,
-                component: path.resolve("./src/templates/portfolio-list.js"),
-                context: {
-                    limit: blogPostsPerPage,
-                    skip: i * blogPostsPerPage,
-                    numPages: numPortfolioItems,
-                    currentPage: i + 1
-                }
-            });
-        });
-
         result.data.blog.edges.forEach(({ node }) => {
             let template =
                 node.frontmatter.template === undefined
                     ? "blog"
-                    : node.frontmatter.template;
-            createPage({
-                path: node.fields.slug,
-                component: path.resolve("./src/templates/" + template + ".js"),
-                context: {
-                    slug: node.fields.slug
-                }
-            });
-        });
-
-        result.data.portfolio.edges.forEach(({ node }) => {
-            let template =
-                node.frontmatter.template === undefined
-                    ? "portfolio"
                     : node.frontmatter.template;
             createPage({
                 path: node.fields.slug,

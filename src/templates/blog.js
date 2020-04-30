@@ -72,15 +72,6 @@ export const query = graphql`
                         }
                     }
                 }
-                banner {
-                    publicURL
-                    childImageSharp {
-                        fluid(maxHeight: 600, maxWidth: 1920) {
-                            srcSet
-                            ...GatsbyImageSharpFluid
-                        }
-                    }
-                }
             }
         }
     }
