@@ -7,7 +7,7 @@ banner: ./russ.jpeg
 description: GGOAT-greatest guy of all time
 ---
 
-What can I say?...without start crying.\
+What can I say?...without start crying because you left us to soon..\
 <br />
 Russ was alwasy one of my best friends everytime we were together and even in spirit\
 We "grew up" together.  I was always at my cousins house and I loved it because they were my brothers.\
