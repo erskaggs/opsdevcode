@@ -32,4 +32,7 @@ I never took that opportunity and wasted what I thought was going to be around\
 for as long as I can imagine.\
 To one my ultimate BEST friends and GREATEST person I've ever known.\
 Godspeed and you will always be in my thoughts and prayes...\
-no matter where you are.  You are the person I wish I could be....I LOVE YOU!!!!
+no matter where you are.  You are the person I wish I could be....I LOVE YOU!!!!\
+You will forever be one of my BEST friends and people I admire\
+<br />
+You will always be an impact to me no matter where you are...
