@@ -29,4 +29,7 @@ that I'll never get to that big squeeze from him, or that yell from him saying \
 <br />
 There's so much that I wish I could just talk to Russ about and I HATE that\
 I never took that opportunity and wasted what I thought was going to be around\
-for as long as I can imagine.
+for as long as I can imagine.\
+To one my ultimate BEST friends and GREATEST person I've ever known.\
+Godspeed and you will always be in my thoughts and prayes...\
+no matter where you are.  You are the person I wish I could be....I LOVE YOU!!!!
