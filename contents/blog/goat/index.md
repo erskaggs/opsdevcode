@@ -12,7 +12,7 @@ What can I say?...without start crying because you left us to soon..\
 Russ was alwasy one of my best friends everytime we were together and even in spirit\
 We "grew up" together.  I was always at my cousins house and I loved it because they were my brothers.\
 The "McKenzie" boys as they were know within the family and I loved every part of them.\
-But Russ with us being so close in age was a different story.  When dealing with his friends\
+But Russ with us being so close in age was a different story. When dealing with his friends\
 He always looked out for me and protected me.  He was the best to be a kid with wether its just\
 explorying Hillsboro or even at my parents house he made everything better.\
 <br />
