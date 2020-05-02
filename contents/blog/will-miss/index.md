@@ -1,5 +1,5 @@
 ---
-title: One of my GOATs
+title: One of the best people
 date: 2020-04-30
 template: blog
 image: ./russ.jpeg
